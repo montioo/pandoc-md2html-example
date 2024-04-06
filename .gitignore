@@ -1,0 +1,9 @@
+# .gitignore for pandoc-md2html-example
+
+*.DS_Store
+
+.vscode/
+
+website/*
+_website/*
+
